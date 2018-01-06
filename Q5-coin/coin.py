@@ -6,23 +6,25 @@ def coin(amount=4, denominations=[1,2,3]):
         return [{min(denominations): 1}]
     elif amount > min(denominations):
         for denomination in denominations:
-            one_result = {}
+            base_result = {}
             if denomination == amount:
-                one_result[denomination] = 1
-            if denomination < amount:
-                one_result[denomination] = 1
+                base_result[denomination] = 1
+                results.append(base_result)
+            elif denomination < amount:
+                base_result[denomination] = 1
                 rest = coin(amount - denomination, denominations)
                 for sol in rest:
+                    sol_result = base_result.copy()
                     if -1 not in sol:
                         for denom in sol:
-                            if denom in one_result:
-                                one_result[int(denom)] += sol[denom]
+                            if denom in sol_result:
+                                sol_result[denom] += sol[denom]
                             else:
-                                one_result = {**one_result, **sol}
-                        if one_result != {}:
-                            results.append(one_result)
-    # return unique dicts
+                                sol_result[denom] = sol[denom]
+                        if sol_result != {}: # TODO JRK Why was that?
+                            results.append(sol_result)
+    # return unique dicts TODO
 
-    return [dict(y) for y in set(tuple(sorted(x.items(), key=lambda tup: tup[0]) ) for x in results)]
+    return results
 
 print(coin())
