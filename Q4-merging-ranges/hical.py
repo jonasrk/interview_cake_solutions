@@ -22,4 +22,4 @@ def merge_ranges(ranges):
 def merge(rangeA, rangeB):
     return (min(rangeA[0], rangeB[0]), max(rangeA[1], rangeB[1]))
 
-print(merge_ranges([(0, 1), (3, 5), (4, 8), (10, 12), (9, 10)]))
+print(merge_ranges([(1, 10), (2, 6), (3, 5), (7, 9)]))
