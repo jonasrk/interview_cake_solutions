@@ -1,4 +1,4 @@
-def coin(amount=4, denominations=[1,2,3]):
+def coin(amount=5, denominations=[6,7,8]):
     results = []
     if amount < min(denominations):
         return [{-1: -1}]
