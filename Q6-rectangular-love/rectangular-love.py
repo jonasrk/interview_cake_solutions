@@ -58,12 +58,12 @@ my_rectangle = {
 my_rectangle2 = {
 
     # coordinates of bottom-left corner
-    'left_x': 1,
-    'bottom_y': 1,
+    'left_x': 0,
+    'bottom_y': 0,
 
     # width and height
-    'width': 5,
-    'height': 2,
+    'width': 0,
+    'height': 0,
 
 }
 
