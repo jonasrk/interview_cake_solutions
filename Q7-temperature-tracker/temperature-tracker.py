@@ -1,3 +1,5 @@
+import sys
+
 class TempTracker():
 
     def __init__(self):
@@ -7,15 +9,17 @@ class TempTracker():
         self.occurences = {}
         self.vals = {}
         self.max_occurences = 1
+        self.min = sys.maxsize
+        self.max = -sys.maxsize
 
     def get_mode(self):
         return self.modes
 
     def get_max(self):
-        return max(self.temps)
+        return self.max
     
     def get_min(self):
-        return min(self.temps)
+        return self.min
     
     def get_mean(self):
         return self.mean
@@ -43,9 +47,14 @@ class TempTracker():
 
         self.modes = self.vals[self.max_occurences]
 
-        self.temps.append(new_temp)
-        print(self.temps)
+        # update min
+        if new_temp < self.min:
+            self.min = new_temp
 
+        # update max
+        if new_temp > self.max:
+            self.max = new_temp
+        
 
 Temp = TempTracker()
 
