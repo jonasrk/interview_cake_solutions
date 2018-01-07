@@ -3,7 +3,7 @@ import sys
 class TempTracker():
 
     def __init__(self):
-        self.temps = []
+        self.count = 0
         self.mean = -1
         self.modes = []
         self.occurences = {}
@@ -26,11 +26,12 @@ class TempTracker():
 
     def insert(self, new_temp):
         # update mean
-        if len(self.temps) == 0:
+        self.count += 1
+        if self.count == 1:
             self.mean = new_temp
         else:
-            self.mean = 1.0 * self.mean * len(self.temps) + new_temp
-            self.mean = 1.0 * self.mean / (len(self.temps) + 1)
+            self.mean = 1.0 * self.mean * self.count + new_temp
+            self.mean = 1.0 * self.mean / (self.count + 1)
         
         # update modes
         if new_temp not in self.occurences:
