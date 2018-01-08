@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="" />
+    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py" afterPath="$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,18 @@
       <file leaf-file-name="second-largest-item-in-bst.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            <state relative-caret-position="535">
+              <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bst-checker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q9-bst-checker/bst-checker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="61" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -194,7 +206,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py</url>
-          <line>36</line>
+          <line>52</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -205,16 +217,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Q9-bst-checker/bst-checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="193">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="61" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        <state relative-caret-position="535">
+          <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
           <folding />
         </state>
       </provider>
