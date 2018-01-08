@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Q7-temperature-tracker/.temperature-tracker.py.swp" afterPath="" />
-    </list>
+    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bst-checker.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q9-bst-checker/bst-checker.py">
+      <file leaf-file-name="second-largest-item-in-bst.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="413">
+              <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -32,6 +30,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Q9-bst-checker/bst-checker.py" />
+        <option value="$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py" />
       </list>
     </option>
   </component>
@@ -69,6 +68,11 @@
               <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="Q9-bst-checker" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Q10-second-largest-item-in-bst" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -90,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bst-checker">
+  <component name="RunManager" selected="Python.second-largest-item-in-bst">
     <configuration name="bst-checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,9 +112,31 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="second-largest-item-in-bst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q10-second-largest-item-in-bst" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interview_cake_solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.bst-checker" />
+      <item index="1" class="java.lang.String" itemvalue="Python.second-largest-item-in-bst" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.bst-checker" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.second-largest-item-in-bst" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bst-checker" />
       </list>
     </recent_temporary>
   </component>
@@ -166,16 +192,29 @@
           <line>35</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Q9-bst-checker/bst-checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        <state relative-caret-position="413">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q10-second-largest-item-in-bst/second-largest-item-in-bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
           <folding />
         </state>
       </provider>
