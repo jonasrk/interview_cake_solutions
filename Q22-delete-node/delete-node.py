@@ -5,16 +5,8 @@ class LinkedListNode:
         self.next  = None
 
 def delete_node(b):
-	deleted = False
-	current_node = a
-	while not deleted:
-		if not current_node.next:
-			raise ValueError('node not in list')
-		elif current_node.next == b:
-			current_node.next = b.next
-			deleted = True
-		else:
-			current_node = current_node.next
+	b.value = b.next.value
+	b.next = b.next.next
 
 a = LinkedListNode('A')
 b = LinkedListNode('B')
