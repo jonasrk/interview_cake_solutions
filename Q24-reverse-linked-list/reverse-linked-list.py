@@ -5,6 +5,12 @@ class LinkedListNode:
         self.next  = None
 
 def reverse(head):
+
+    if not head:
+        raise ValueError('No elements in list.')
+    elif not head.next:
+        raise ValueError('Only one element in list.')
+
     previous = head
     current = head.next
     next = current.next
@@ -51,3 +57,5 @@ print(current.value)
 while current.next:
     print(current.next.value)
     current = current.next
+
+# complexity: O(n) time / O(1) space
