@@ -45,7 +45,6 @@ def reverse_word_order(input):
 
     return s
 
-    
-            
-
 print(reverse_word_order("los hier ist was Hallo"))
+
+# conplexity: O(n) time / O(1) space
