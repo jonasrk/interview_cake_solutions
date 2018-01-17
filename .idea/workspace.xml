@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="" />
+    <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Q36-single-riffle-check/.single-riffle-check.py.swp" afterPath="$PROJECT_DIR$/Q36-single-riffle-check/.single-riffle-check.py.swp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Q36-single-riffle-check/single-riffle-check.py" afterPath="$PROJECT_DIR$/Q36-single-riffle-check/single-riffle-check.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Q30-permutation-palindrome/permutation-palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -468,7 +471,7 @@
     <entry file="file://$PROJECT_DIR$/Q30-permutation-palindrome/permutation-palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>

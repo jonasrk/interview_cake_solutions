@@ -7,6 +7,11 @@ def is_single_riffle(shuffled_deck, half1, half2):
             half2.pop()
         else:
             return False
-    return True
+    if len(half1) == 0 and len(half2) == 0:
+        return True
+    else:
+        return False
 
-print(is_single_riffle([1,2,3], [1,2], [3]))
+print(is_single_riffle([1,2,3], [3,1,2], [3]))
+
+# complexity: O(n) time / O(1) space
