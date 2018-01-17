@@ -30,4 +30,4 @@ print(find_corresponding_closing_parenthesis(input))
 input = '{ [ }'
 print(find_corresponding_closing_parenthesis(input))
 
-# complexity: 
+# complexity: O(n) time / O(n) space
