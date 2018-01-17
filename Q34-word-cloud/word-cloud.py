@@ -1,5 +1,5 @@
-def count_words(input):
-    result = {}
+def count_words(input, result):
+    result = {}d
     for word in input.split(' '):
         l_word = ''.join(e for e in word.lower() if (e.isalnum() or e == '-')) 
         if l_word in result:
@@ -9,7 +9,10 @@ def count_words(input):
 
     return result
 
-s = '''After beating the eggs, Dana read the next step: 
-Add milk and eggs, then add flour and sugar-bags.'''
+s1 = "We came, we saw, we conquered...then we ate Bill's (Mille-Feuille) cake."
+s2 = "The bill came to five dollars."
 
-print(count_words(s))
+results = count_words(s1, {}) 
+results = count_words(s2, results) 
+
+print(results)
