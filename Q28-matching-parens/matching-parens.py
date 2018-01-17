@@ -16,3 +16,4 @@ input = 'Sometimes (when I nest them (my parentheticals) too much (like this (an
 
 print(find_corresponding_closing_parenthesis(input, 10))
 
+# complexity: O(n) time) / O(1) space
