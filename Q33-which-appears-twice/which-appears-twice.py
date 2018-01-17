@@ -17,3 +17,5 @@ input = [1, 2, 3, 2, 4]
 
 # should return 2
 print(appears_twice(input))
+
+# complexity: O(n) time / O(1) space
