@@ -17,3 +17,5 @@ results = count_words(s1, {})
 results = count_words(s2, results) 
 
 print(results)
+
+# complexity: O(n) time / O(n) space
