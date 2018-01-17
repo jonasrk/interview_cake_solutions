@@ -28,15 +28,16 @@ def reverse_word_order(input):
     word_end = 0
     
     for i in range(0, len(l)):
-        if l[i] == ' ':
-            word_end = i
-            for i in range(word_start, word_end):
+        if  i == len(l) - 1 or l[i + 1] == ' ':
+            word_len = i + 1 - word_start
+            for j in range(word_start, word_start + word_len//2):
                 # swap start
-                helper = l[i]
-                l[i] = l[len(l) - 1 - i] 
-                l[len(l) - 1 - i] = helper
+                word_index = j - word_start
+                helper = l[j]
+                l[j] = l[word_start + word_len - 1 - word_index] 
+                l[word_start + word_len - 1 - word_index] = helper
                 # swap end
-            word_start = i+1
+            word_start = i+2
 
     s = ''
     for el in l:
