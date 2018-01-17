@@ -17,3 +17,5 @@ def shuffle(input):
         return l[:i] + [el] + l[i:]
 
 print(shuffle(['A', 'B', 'C', 'D']))
+
+# complexity: O(n) time / O(n) space
