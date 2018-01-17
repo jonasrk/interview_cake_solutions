@@ -4,9 +4,9 @@ def rand7():
     return random.randint(1,7)
 
 def rand5():
-    sum = 0
-    for i in range(0, 5):
-        sum += rand7()
-    return sum % 5 + 1
+    rand = 8
+    while rand > 5:
+        rand = rand7()
+    return rand
 
 print(rand5())
