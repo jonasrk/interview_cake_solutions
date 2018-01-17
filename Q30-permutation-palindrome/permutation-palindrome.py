@@ -1,29 +1,24 @@
-def is_palin(input):
-    for i in range(0, len(input) // 2):
-        if input[i] != input[len(input) - 1 - i]:
-            return False
+def permutation_palindrome(input):
+    occs = {}
+    for char in input:
+        if char in occs:
+            occs[char] += 1
+        else:
+            occs[char] = 1
+
+    count_uneven = 0
+    for occ in occs:
+        if occs[occ] % 2 != 0:
+            count_uneven += 1
+            if count_uneven > 1:
+                return False
+
     return True
 
-def perms(input):
-    if len(input) == 2:
-        a = '' + input[0] + input[1]
-        b = '' + input[1] + input[0]
-        return [a, b]
-    else:
-        output = []
-        for i, char in enumerate(input):
-            for perm in perms(input[:i] + input[i+1:]):
-                output.append(char + perm)
-
-        return output
-
-def permutation_palindrome(input):
-    for perm in perms(input):
-        if is_palin(perm):
-            return True
-    return False
 
 print(permutation_palindrome('civic'))
 print(permutation_palindrome('ivicc'))
 print(permutation_palindrome('civil'))
 print(permutation_palindrome('livci'))
+
+# complexity: O(n) time / O(n) space
