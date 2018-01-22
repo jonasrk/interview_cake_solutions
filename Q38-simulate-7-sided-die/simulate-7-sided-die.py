@@ -7,8 +7,8 @@ def rand7():
     result = None
     found = False
     while not found:
-        b0 = rand5()
-        b1 = rand5()
+        b0 = rand5() - 1
+        b1 = rand5() - 1
 
         dec = b0 + 5 * b1
 
