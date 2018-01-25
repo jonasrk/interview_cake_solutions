@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Q38-simulate-7-sided-die/.simulate-7-sided-die.py.swp" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fb_prep/tramp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Q38-simulate-7-sided-die/simulate-7-sided-die.py" afterPath="$PROJECT_DIR$/Q38-simulate-7-sided-die/simulate-7-sided-die.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="two-egg-problem.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py">
+      <file leaf-file-name="find-duplicate-optimize-for-space.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -53,10 +52,12 @@
         <option value="$PROJECT_DIR$/Q30-permutation-palindrome/permutation-palindrome.py" />
         <option value="$PROJECT_DIR$/Q38-simulate-7-sided-die/simulate-7-sided-die.py" />
         <option value="$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py" />
+        <option value="$PROJECT_DIR$/fb_prep/tramp.py" />
+        <option value="$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1366" />
     <option name="height" value="742" />
@@ -91,62 +92,7 @@
             <path>
               <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q9-bst-checker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q10-second-largest-item-in-bst" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q13-find-rotation-point" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q14-inflight-entertainment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q15-nth-fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q16-cake-thief" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q24-reverse-linked-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q29-bracket-validator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q30-permutation-palindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q38-simulate-7-sided-die" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Q39-two-egg-problem" type="462c0819:PsiDirectoryNode" />
+              <item name="Q40-find-duplicate-optimize-for-space" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,37 +120,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.two-egg-problem">
-    <configuration name="bracket-validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.find-duplicate-optimize-for-space">
+    <configuration name="find-duplicate-optimize-for-space" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q29-bracket-validator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_cake_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q29-bracket-validator/bracket-validator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="candy_crush" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="interview_cake_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/candy_crush.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,6 +172,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="tramp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fb_prep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interview_cake_solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fb_prep/tramp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="two-egg-problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,19 +207,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.candy_crush" />
-      <item index="1" class="java.lang.String" itemvalue="Python.bracket-validator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
-      <item index="4" class="java.lang.String" itemvalue="Python.two-egg-problem" />
+      <item index="0" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
+      <item index="2" class="java.lang.String" itemvalue="Python.two-egg-problem" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tramp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.two-egg-problem" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
-        <item index="2" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Python.bracket-validator" />
-        <item index="4" class="java.lang.String" itemvalue="Python.candy_crush" />
+        <item index="0" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tramp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.two-egg-problem" />
+        <item index="3" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
+        <item index="4" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -291,19 +237,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1366" height="742" extended-state="0" />
+    <frame x="0" y="22" width="1366" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17642753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36567163" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3641791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39850748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4402985" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -384,12 +330,46 @@
           <line>15</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fb_prep/tramp.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb_prep/tramp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Q38-simulate-7-sided-die/simulate-7-sided-die.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -402,7 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3165">
           <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -418,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3285">
           <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3165">
           <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,8 +535,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="285">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb_prep/tramp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding />
         </state>
       </provider>
