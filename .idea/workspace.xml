@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2030ebdd-c57c-411a-9ae4-6b5c02a97fe7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalantirFirstPhoneScreen/.lru.py.swp" afterPath="$PROJECT_DIR$/PalantirFirstPhoneScreen/.lru.py.swp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py" afterPath="$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="find-duplicate-optimize-for-space.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py">
+      <file leaf-file-name="lru.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="-130">
+              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +64,7 @@
         <option value="$PROJECT_DIR$/Q39-two-egg-problem/two-egg-problem.py" />
         <option value="$PROJECT_DIR$/fb_prep/tramp.py" />
         <option value="$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py" />
+        <option value="$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py" />
       </list>
     </option>
   </component>
@@ -91,6 +101,11 @@
             <path>
               <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="PalantirFirstPhoneScreen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_cake_solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_cake_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="Q40-find-duplicate-optimize-for-space" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -121,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.find-duplicate-optimize-for-space">
+  <component name="RunManager" selected="Python.lru">
     <configuration name="find-duplicate-optimize-for-space" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,19 +154,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="permutation-palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lru" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q30-permutation-palindrome" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PalantirFirstPhoneScreen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="interview_cake_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q30-permutation-palindrome/permutation-palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,19 +223,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
-      <item index="2" class="java.lang.String" itemvalue="Python.two-egg-problem" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tramp" />
-      <item index="4" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
+      <item index="0" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
+      <item index="1" class="java.lang.String" itemvalue="Python.two-egg-problem" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tramp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lru" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tramp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.two-egg-problem" />
-        <item index="3" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
-        <item index="4" class="java.lang.String" itemvalue="Python.permutation-palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lru" />
+        <item index="1" class="java.lang.String" itemvalue="Python.find-duplicate-optimize-for-space" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tramp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.two-egg-problem" />
+        <item index="4" class="java.lang.String" itemvalue="Python.simulate-7-sided-die" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +261,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3641791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3641791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -341,8 +356,13 @@
           <line>12</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -560,8 +580,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q40-find-duplicate-optimize-for-space/find-duplicate-optimize-for-space.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PalantirFirstPhoneScreen/lru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding />
         </state>
       </provider>
